@@ -1,4 +1,4 @@
 # AutoEncoder
-Stacked AutoEncoder
-This is the initial 4 layers
-The experiment involve adding to the readme
+
+Here were adding 2 extra layers
+Deleted "Stacked AutoEncoder" and added this line
